@@ -1,0 +1,10 @@
+.git
+.gitignore
+*.md
+terraform/
+evidence/
+docker-compose.yml
+.dockerignore
+*.png
+*.jpg
+*.env
